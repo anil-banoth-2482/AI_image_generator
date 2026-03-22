@@ -79,3 +79,11 @@ node_modules/
 # Env files
 .env
 .env.*
+
+node_modules/
+client/node_modules/
+server/node_modules/
+env/
+venv/
+.env
+.env.*
